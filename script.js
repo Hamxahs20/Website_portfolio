@@ -1,4 +1,4 @@
-const img=n=>`assets/p${n}.webp`;
+const img=n=>`p${n}.webp`;
 const projects=[
 {slug:'sukoon',name:'Sukoon',year:'2026',kind:'Spatial design',short:'A space to reflect, connect and grow.',lead:'Reimagining the multifaith room as a welcoming third space for a new generation.',hero:6,color:'#82729d',context:'Royal College of Art · SoloX',chapters:[
 {index:'01 / THE QUESTION',title:'Where do we go to pause?',body:'RCA Battersea had no dedicated reflection or multifaith room. What would a space for both stillness and belonging look like?',imgs:[{n:7,cap:'Sukoon — a place to reflect, connect and grow'},{n:10,cap:'Research insights around belonging and peace'}]},
